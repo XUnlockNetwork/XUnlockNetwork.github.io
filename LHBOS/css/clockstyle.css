@@ -18,7 +18,7 @@ body {
 
 .navbar {
   overflow-y: scroll;
-  background-color: #bc71ed;
+  background-color: red;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -31,7 +31,7 @@ body {
 }
 
 .navbar span {
-  background-color: #bc71ed;
+  background-color: red;
   color: white;
   text-decoration: none;
   padding: 0 4px;
@@ -42,7 +42,7 @@ body {
 }
 
 .navbar a {
-  background-color: #bc71ed;
+  background-color: red;
   color: black;
   text-decoration: none;
   padding: 1px 4px;
@@ -62,7 +62,7 @@ body {
   text-decoration: underline;
 }
 .consolea:hover {
-  color: #bc71ed;
+  color: red;
   text-decoration: underline;
 }
 
